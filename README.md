@@ -59,6 +59,21 @@ This toolkit uses real-world IT commands commonly applied in corporate and enter
 
 > ⚠️ Some commands may recommend restarting the system.
 
+## 📸 Screenshots
+
+### System Health Check
+![System Health](screenshots/system_health.png)
+
+### Network Diagnostics & Reset
+![Network Diagnostics](screenshots/network_diagnostics.png)
+
+### System Repair (SFC Scan)
+![SFC Scan](screenshots/system_repair_sfc.png)
+
+### Temporary Files Cleanup
+![Cleanup](screenshots/cleanup_temp.png)
+
+
 ---
 
 ## 🔹 Use Case
